@@ -39,3 +39,4 @@ DISCLAIMERS:
 
 this is funky got bored so i stopped x64 PE binaries do NOT work, patcher patches x86 but wont be able to run yes ik frick me!
 but whoever wants to fork and fix it be my guest i just cba anymore
+easily detectable. :)
